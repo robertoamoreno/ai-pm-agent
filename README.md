@@ -1,10 +1,10 @@
 # PM AI Agent 🤖
 
-A sophisticated Next.js application that transforms Loom video demonstrations into detailed user stories using AI. This tool helps Product Managers streamline their documentation process by automatically generating structured user stories from video content. The project was primarily developed (95%) by Cline AI, with only the initial scaffolding done manually.
+A sophisticated Next.js application that transforms  video demonstrations into detailed user stories using AI. This tool helps Product Managers streamline their documentation process by automatically generating structured user stories from video content. The project was primarily developed (95%) by Cline AI, with only the initial scaffolding done manually.
 
 ## Features
 
-### 1. Loom Video Processing
+### 1. Video Processing
 - Upload video files with optional SRT subtitles
 - Built-in video player with frame selection capabilities
    - Automatic subtitle parsing and integration
@@ -55,7 +55,7 @@ A sophisticated Next.js application that transforms Loom video demonstrations in
 ## How It Works
 
 1. **Upload Phase**
-   - Download your Loom video demonstration with SRT subtitles
+   - Download your Loom video or any other video demonstration with SRT subtitles
    - Upload the video and SRT file to the application
    - Automatic subtitle parsing and synchronization
 
@@ -116,7 +116,7 @@ A sophisticated Next.js application that transforms Loom video demonstrations in
    - You'll see the main interface with a file upload section
 
 2. **Upload Content**
-   - Record your feature demonstration using Loom
+   - Record your feature demonstration using tool like Loom
    - Download both the video file and SRT subtitles from Loom
    - For subtitles, you can either:
      * Download SRT subtitles from Loom and upload them directly
